@@ -1,6 +1,6 @@
 # JavaScript Coercion
 
-JavaScript Coercion Coercion is confusing, complex and often gets asked in interviews. This article goes in-depth on how type coercion works in JavaScript. These rules, tricks and tips will help you ace that next interview.
+JavaScript Coercion is confusing, complex and often gets asked in interviews. This article goes in-depth on how type coercion works in JavaScript. These rules, tricks and tips will help you ace that next interview.
 
 There are two types of coercion in JavaScript. `Implicit` and `Explicit`. When a developer expresses the intention to convert between types by writing the appropriate code, like Number(value), it’s called explicit type coercion (or type casting). Everyone knows what these are. The complexity comes while doing implicit coercion, which happens when you apply operators to values of different types.
 
