@@ -23,7 +23,7 @@ Arithmetic division operator / triggers numeric conversion for string
 '12' / '6' --> 2 
 ```
 
-### `+` Operations
+### `+` and '-` Operations
 Arithmetic addition operator, triggers numeric conversion to string if one of them is string.
 Arithmetic addition operator, triggers string conversion to numeric if both of them are string numeric.
 ```javascript
