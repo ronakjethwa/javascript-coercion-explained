@@ -26,6 +26,7 @@ Arithmetic division operator / triggers numeric conversion for string
 ### `+` Operations
 Arithmetic addition operator, triggers numeric conversion to string if one of them is string.
 Arithmetic addition operator, triggers string conversion to numeric if both of them are string numeric.
+```javascript
 12 + "" --> "12"
 "15" + 2 --> 152
 "4" - "3" --> 1
@@ -34,6 +35,7 @@ undefined + 3 -- > NaN
 null + 5 --> 5
 true + 10 --> 11
 "number" + 1 + 2 --> "number12"
+```
 
 
 
